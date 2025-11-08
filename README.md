@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou **estudante de Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Web**.  
+Sou **estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Software** com foco em **Desenvolvimento Web**.  
 
 Atualmente, atuo como **estagiário de suporte Help Desk** na **Prefeitura de São Paulo**, locado na **Subprefeitura do Jabaquara**, e estou em busca da **minha primeira oportunidade na área de desenvolvimento**.  
 Tenho dedicado meus estudos à **faculdade** e ao **aperfeiçoamento em programação**.
