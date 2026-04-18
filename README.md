@@ -2,13 +2,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, com foco em **Desenvolvimento Web**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando o **2º semestre de Engenharia de Software**, com foco em **Desenvolvimento Web**.
 
-Atualmente, atuo como **estagiário de suporte Help Desk** na Prefeitura de São Paulo (Subprefeitura do Jabaquara) e estou em busca da minha **primeira oportunidade como desenvolvedor**.
+Atualmente, atuo como **estagiário de Desenvolvimento Web na Defesa Civil de Salvador**, onde trabalho na modernização de sistemas web, realizando manutenção de layouts e implementação de **responsividade com abordagem mobile-first** em aplicações originalmente voltadas para desktop.
 
-Tenho me dedicado à faculdade e ao estudo contínuo de programação.
+Também possuo experiência com **banco de dados SQL**, realizando consultas, manipulação de dados e suporte a funcionalidades integradas aos sistemas.
 
-🌱 Atualmente estudando **Front-End pelo SENAI de Osasco**.
+Tenho experiência anterior com **suporte técnico (Help Desk)** na Prefeitura de São Paulo (Subprefeitura do Jabaquara), o que fortaleceu minha base em tecnologia e resolução de problemas.
+
+🎓 Concluí o curso de **Desenvolvimento Front-End pelo SENAI de Osasco**  
+📊 Possuo conhecimento em **Excel (avançado)**  
 
 ---
 
@@ -26,16 +29,20 @@ Tenho me dedicado à faculdade e ao estudo contínuo de programação.
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
+<!-- Ferramentas -->
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+
 </div>
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades de **estágio** ou **posição júnior** em:
+Busco oportunidades como:
 
-- Desenvolvimento Web (Front-end / Back-end)
-- Suporte Técnico (Help Desk)
+- Desenvolvedor Web (Front-end / Back-end)
+- Desenvolvedor Júnior
 
 ---
 
