@@ -1,35 +1,149 @@
-Olá, eu sou João Victor 👋
-👨‍💻 Sobre mim
+# 👋 Olá, eu sou João Victor!
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando o 3º semestre de Engenharia de Software, com foco em Desenvolvimento Web.
+### 💻 Engenheiro de Software em formação | Desenvolvedor Front-end | Full Stack em formação
 
-Atuo como estagiário de Desenvolvimento Web na Defesa Civil de Salvador, trabalhando na modernização de sistemas, com foco em:
+Sou estudante de **Engenharia de Software** e atuo há mais de **4 anos no mercado público**, com experiência em **TI, suporte técnico, redes e desenvolvimento de software**.
 
-Manutenção e melhoria de layouts
-Implementação de responsividade (mobile-first)
-Evolução de aplicações originalmente desktop
+Tenho aproximadamente **1 ano de experiência prática com desenvolvimento Front-end** e atualmente estou direcionando meus estudos e experiência profissional para me tornar um **Desenvolvedor Full Stack**.
 
-Também possuo experiência com banco de dados SQL, realizando:
+Tenho interesse em construir aplicações **responsivas, funcionais e intuitivas**, unindo desenvolvimento, experiência do usuário e regras de negócio.
 
-Consultas
-Manipulação de dados
-Suporte a funcionalidades integradas
+---
 
-Tenho experiência anterior com suporte técnico (Help Desk) na Prefeitura de São Paulo (Subprefeitura do Jabaquara), o que fortaleceu minhas habilidades em resolução de problemas e infraestrutura de TI.
+## 🚀 Sobre mim
 
-🎓 Formação em Desenvolvimento Front-End pelo SENAI de Osasco
-📊 Conhecimento em Excel Avançado
+Atualmente atuo como **Desenvolvedor de Software na Defesa Civil de Salvador**, com foco principalmente em desenvolvimento Front-end.
 
-🚀 Tecnologias
-<div align="center"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> <!-- Tailwind corrigido --> <img height="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <!-- Ferramentas --> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> </div>
-🎯 Objetivo
+No meu dia a dia, trabalho com:
 
-Busco oportunidades como:
+* Desenvolvimento de interfaces responsivas;
+* Abordagem **Mobile First**;
+* Criação de telas reativas e componentes reutilizáveis;
+* Implementação de layouts utilizando **UX/UI**;
+* Prototipação e organização de interfaces;
+* Aplicação de regras de negócio;
+* Integração com APIs;
+* Manutenção e evolução de sistemas;
+* Garantia de responsividade e qualidade das aplicações.
 
-Desenvolvedor Web (Front-end / Back-end)
-Desenvolvedor Júnior
-Área de suporte técnico (caso necessário como porta de entrada)
-📬 Contato
-<div> <a href="https://www.linkedin.com/in/joaovictordesenvolvedor/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:joaovictorsilvacarmo6@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+Minha experiência anterior em **Help Desk e Redes** também contribuiu para desenvolver uma visão mais ampla sobre infraestrutura, sistemas e suporte ao usuário.
 
-⭐ Obrigado por visitar meu perfil!
+---
+
+## 🛠️ Habilidades técnicas
+
+### Linguagens
+
+* JavaScript
+* TypeScript
+* PHP
+* Java
+* Python
+* SQL
+
+### Front-end e ferramentas
+
+* Vue.js
+* Vite
+* Tailwind CSS
+* APIs REST
+* ECharts
+* Git
+
+### Banco de dados
+
+* PostgreSQL
+* SQL Server
+
+### Qualidade e desenvolvimento
+
+* Testes unitários
+* Responsividade
+* Mobile First
+* UX/UI
+* Prototipação
+* Regras de negócio
+* Boas práticas de desenvolvimento
+
+### Sistemas operacionais
+
+* Windows
+* Ubuntu / Linux
+
+---
+
+## 📌 Projetos em destaque
+
+### 📦 Digitec — Sistema de Controle de Estoque
+
+Sistema desenvolvido para **controle de estoque e gerenciamento das rotinas da recepção**, com foco em organização, usabilidade e responsividade.
+
+**Tecnologias:**
+
+* JavaScript
+* Vue.js
+* Tailwind CSS
+* ECharts
+
+O projeto possui funcionalidades voltadas para gerenciamento de materiais, indicadores e visualização de dados.
+
+---
+
+### 🌧️ SIGR — Sistema de Informação e Gestão de Risco
+
+Sistema utilizado no contexto da **Prefeitura de Salvador**, desenvolvido para apoiar atividades relacionadas à gestão e visualização de informações de risco.
+
+**Tecnologias:**
+
+* Vue.js
+* JavaScript
+* TypeScript
+* Tailwind CSS
+
+> 🔒 Alguns projetos apresentados neste perfil pertencem a órgãos públicos ou organizações privadas e possuem acesso restrito. Por questões de segurança, determinados sistemas só podem ser acessados por usuários autorizados através de VPN ou ambientes internos.
+
+---
+
+## 📚 Atualmente estudando
+
+Meu principal objetivo atualmente é evoluir como **Desenvolvedor Full Stack**, aprofundando meus conhecimentos em:
+
+* Desenvolvimento de APIs;
+* Backend;
+* Integração Front-end + Back-end;
+* Bancos de dados;
+* Arquitetura de aplicações;
+* Boas práticas de programação;
+* Cloud e infraestrutura;
+* Testes e qualidade de software.
+
+---
+
+## 🌎 Idiomas
+
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Básico (A2)
+* 🇪🇸 Espanhol — Básico (A1)
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Estou sempre aberto a conhecer novos projetos, oportunidades e pessoas da área de tecnologia.
+
+### 🔗 Onde me encontrar
+
+**LinkedIn:**
+https://www.linkedin.com/in/joaovictordesenvolvedor/
+
+**GitHub:**
+https://github.com/Devju40
+
+**E-mail:**
+[joaovictorsilvacarmo6@gmail.com](mailto:joaovictorsilvacarmo6@gmail.com)
+
+---
+
+### 💡 Sempre aprendendo, construindo e evoluindo.
+
+> *"Transformando conhecimento em soluções."*
