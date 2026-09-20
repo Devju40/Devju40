@@ -1,37 +1,37 @@
-# João Victor
+# Hello, I'm João Victor
 
 **Software Engineer in Training | Front-end Developer | Full Stack Developer in Training**
 
-Profissional de Tecnologia da Informação com experiência em **suporte técnico, redes e desenvolvimento de software**, atuando no setor público.
+IT professional with experience in **technical support, networking, and software development**, working in the public sector.
 
-Atualmente atuo como **Desenvolvedor de Software na Defesa Civil de Salvador**, com foco em desenvolvimento Front-end, construção de interfaces responsivas, implementação de regras de negócio e evolução de aplicações web.
+Currently working as a **Software Developer at the Civil Defense of Salvador**, with a focus on Front-end development, responsive interfaces, business rules implementation, and web application development.
 
-Minha trajetória em TI começou com suporte e infraestrutura e evoluiu para desenvolvimento de software. Atualmente, direciono minha experiência para o desenvolvimento **Full Stack**, aprofundando conhecimentos em APIs, integração entre sistemas, bancos de dados e arquitetura de aplicações.
-
----
-
-## Perfil profissional
-
-Experiência no desenvolvimento de aplicações web utilizando **JavaScript, Vue.js, TypeScript, Tailwind CSS e Vite**, além de integração com APIs REST e bancos de dados relacionais.
-
-Atuação com:
-
-* Desenvolvimento de aplicações responsivas;
-* Abordagem Mobile First;
-* Componentização e interfaces reativas;
-* Implementação de regras de negócio;
-* Integração com APIs REST;
-* UX/UI e prototipação;
-* Visualização de dados;
-* Manutenção e evolução de aplicações;
-* Testes e garantia de qualidade;
-* Análise e resolução de problemas.
-
-A experiência anterior em **Help Desk e Redes** complementa minha atuação em desenvolvimento, proporcionando conhecimento em sistemas operacionais, infraestrutura, suporte e troubleshooting.
+My career in IT started with technical support and infrastructure and evolved into software development. I am currently expanding my experience toward **Full Stack development**, focusing on APIs, system integration, databases, and application architecture.
 
 ---
 
-## Stack
+## Professional Profile
+
+Experience in web application development using **JavaScript, Vue.js, TypeScript, Tailwind CSS, and Vite**, as well as REST API integration and relational databases.
+
+Areas of experience:
+
+* Responsive web application development;
+* Mobile First approach;
+* Component-based development and reactive interfaces;
+* Business rules implementation;
+* REST API integration;
+* UX/UI and prototyping;
+* Data visualization;
+* Application maintenance and continuous improvement;
+* Testing and quality assurance;
+* Problem analysis and troubleshooting.
+
+My previous experience in **Help Desk and Networking** complements my development background, providing knowledge of operating systems, infrastructure, technical support, and troubleshooting.
+
+---
+
+## Tech Stack
 
 ### Languages
 
@@ -51,7 +51,7 @@ A experiência anterior em **Help Desk e Redes** complementa minha atuação em 
 
 ### Engineering
 
-`Git` · `Testes Unitários` · `Mobile First` · `UX/UI` · `Prototipação`
+`Git` · `Unit Testing` · `Mobile First` · `UX/UI` · `Prototyping`
 
 ### Operating Systems
 
@@ -59,39 +59,39 @@ A experiência anterior em **Help Desk e Redes** complementa minha atuação em 
 
 ---
 
-## Projetos
+## Projects
 
-### DIGITEC — Sistema de Controle de Estoque
+### DIGITEC — Inventory Management System
 
-Aplicação web desenvolvida para **controle de estoque e gerenciamento das rotinas da recepção**.
+Web application developed for **inventory control and reception management routines**.
 
-O sistema possui interface responsiva, gerenciamento de informações e visualização de indicadores, com foco em organização das operações e experiência de utilização.
+The system provides a responsive interface, information management, and data visualization, focusing on operational organization and user experience.
 
 **Stack:**
 `JavaScript` · `Vue.js` · `Tailwind CSS` · `ECharts`
 
 ---
 
-### SIGR — Sistema de Informação e Gestão de Risco
+### SIGR — Risk Information and Management System
 
-Sistema desenvolvido no contexto da **Prefeitura de Salvador**, destinado ao gerenciamento e visualização de informações relacionadas à gestão de risco.
+System developed in the context of the **Salvador City Government**, focused on the management and visualization of information related to risk management.
 
 **Stack:**
 `Vue.js` · `JavaScript` · `TypeScript` · `Tailwind CSS`
 
-> Alguns projetos relacionados a órgãos públicos e organizações privadas possuem acesso restrito e dependem de VPN ou ambientes internos. Por esse motivo, determinados sistemas e códigos não podem ser disponibilizados publicamente.
+> Some projects related to public agencies and private organizations have restricted access and require VPN or internal environments. For security reasons, certain systems and source code cannot be publicly available.
 
 ---
 
-## Idiomas
+## Languages
 
-**Português:** Nativo
-**Inglês:** Básico — A2
-**Espanhol:** Básico — A1
+**Portuguese:** Native
+**English:** Basic — A2
+**Spanish:** Basic — A1
 
 ---
 
-## Contato
+## Contact
 
 **LinkedIn**
 https://www.linkedin.com/in/joaovictordesenvolvedor/
@@ -99,5 +99,5 @@ https://www.linkedin.com/in/joaovictordesenvolvedor/
 **GitHub**
 https://github.com/Devju40
 
-**E-mail**
+**Email**
 [joaovictorsilvacarmo6@gmail.com](mailto:joaovictorsilvacarmo6@gmail.com)
