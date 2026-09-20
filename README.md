@@ -1,149 +1,103 @@
-# 👋 Olá, eu sou João Victor!
+# João Victor
 
-### 💻 Engenheiro de Software em formação | Desenvolvedor Front-end | Full Stack em formação
+**Software Engineer in Training | Front-end Developer | Full Stack Developer in Training**
 
-Sou estudante de **Engenharia de Software** e atuo há mais de **4 anos no mercado público**, com experiência em **TI, suporte técnico, redes e desenvolvimento de software**.
+Profissional de Tecnologia da Informação com experiência em **suporte técnico, redes e desenvolvimento de software**, atuando no setor público.
 
-Tenho aproximadamente **1 ano de experiência prática com desenvolvimento Front-end** e atualmente estou direcionando meus estudos e experiência profissional para me tornar um **Desenvolvedor Full Stack**.
+Atualmente atuo como **Desenvolvedor de Software na Defesa Civil de Salvador**, com foco em desenvolvimento Front-end, construção de interfaces responsivas, implementação de regras de negócio e evolução de aplicações web.
 
-Tenho interesse em construir aplicações **responsivas, funcionais e intuitivas**, unindo desenvolvimento, experiência do usuário e regras de negócio.
-
----
-
-## 🚀 Sobre mim
-
-Atualmente atuo como **Desenvolvedor de Software na Defesa Civil de Salvador**, com foco principalmente em desenvolvimento Front-end.
-
-No meu dia a dia, trabalho com:
-
-* Desenvolvimento de interfaces responsivas;
-* Abordagem **Mobile First**;
-* Criação de telas reativas e componentes reutilizáveis;
-* Implementação de layouts utilizando **UX/UI**;
-* Prototipação e organização de interfaces;
-* Aplicação de regras de negócio;
-* Integração com APIs;
-* Manutenção e evolução de sistemas;
-* Garantia de responsividade e qualidade das aplicações.
-
-Minha experiência anterior em **Help Desk e Redes** também contribuiu para desenvolver uma visão mais ampla sobre infraestrutura, sistemas e suporte ao usuário.
+Minha trajetória em TI começou com suporte e infraestrutura e evoluiu para desenvolvimento de software. Atualmente, direciono minha experiência para o desenvolvimento **Full Stack**, aprofundando conhecimentos em APIs, integração entre sistemas, bancos de dados e arquitetura de aplicações.
 
 ---
 
-## 🛠️ Habilidades técnicas
+## Perfil profissional
 
-### Linguagens
+Experiência no desenvolvimento de aplicações web utilizando **JavaScript, Vue.js, TypeScript, Tailwind CSS e Vite**, além de integração com APIs REST e bancos de dados relacionais.
 
-* JavaScript
-* TypeScript
-* PHP
-* Java
-* Python
-* SQL
+Atuação com:
 
-### Front-end e ferramentas
+* Desenvolvimento de aplicações responsivas;
+* Abordagem Mobile First;
+* Componentização e interfaces reativas;
+* Implementação de regras de negócio;
+* Integração com APIs REST;
+* UX/UI e prototipação;
+* Visualização de dados;
+* Manutenção e evolução de aplicações;
+* Testes e garantia de qualidade;
+* Análise e resolução de problemas.
 
-* Vue.js
-* Vite
-* Tailwind CSS
-* APIs REST
-* ECharts
-* Git
-
-### Banco de dados
-
-* PostgreSQL
-* SQL Server
-
-### Qualidade e desenvolvimento
-
-* Testes unitários
-* Responsividade
-* Mobile First
-* UX/UI
-* Prototipação
-* Regras de negócio
-* Boas práticas de desenvolvimento
-
-### Sistemas operacionais
-
-* Windows
-* Ubuntu / Linux
+A experiência anterior em **Help Desk e Redes** complementa minha atuação em desenvolvimento, proporcionando conhecimento em sistemas operacionais, infraestrutura, suporte e troubleshooting.
 
 ---
 
-## 📌 Projetos em destaque
+## Stack
 
-### 📦 Digitec — Sistema de Controle de Estoque
+### Languages
 
-Sistema desenvolvido para **controle de estoque e gerenciamento das rotinas da recepção**, com foco em organização, usabilidade e responsividade.
+`JavaScript` · `TypeScript` · `PHP` · `Java` · `Python` · `SQL`
 
-**Tecnologias:**
+### Front-end
 
-* JavaScript
-* Vue.js
-* Tailwind CSS
-* ECharts
+`Vue.js` · `Vite` · `Tailwind CSS` · `ECharts`
 
-O projeto possui funcionalidades voltadas para gerenciamento de materiais, indicadores e visualização de dados.
+### Backend & APIs
 
----
+`API REST` · `PHP` · `SQL`
 
-### 🌧️ SIGR — Sistema de Informação e Gestão de Risco
+### Databases
 
-Sistema utilizado no contexto da **Prefeitura de Salvador**, desenvolvido para apoiar atividades relacionadas à gestão e visualização de informações de risco.
+`PostgreSQL` · `SQL Server`
 
-**Tecnologias:**
+### Engineering
 
-* Vue.js
-* JavaScript
-* TypeScript
-* Tailwind CSS
+`Git` · `Testes Unitários` · `Mobile First` · `UX/UI` · `Prototipação`
 
-> 🔒 Alguns projetos apresentados neste perfil pertencem a órgãos públicos ou organizações privadas e possuem acesso restrito. Por questões de segurança, determinados sistemas só podem ser acessados por usuários autorizados através de VPN ou ambientes internos.
+### Operating Systems
+
+`Windows` · `Ubuntu/Linux`
 
 ---
 
-## 📚 Atualmente estudando
+## Projetos
 
-Meu principal objetivo atualmente é evoluir como **Desenvolvedor Full Stack**, aprofundando meus conhecimentos em:
+### DIGITEC — Sistema de Controle de Estoque
 
-* Desenvolvimento de APIs;
-* Backend;
-* Integração Front-end + Back-end;
-* Bancos de dados;
-* Arquitetura de aplicações;
-* Boas práticas de programação;
-* Cloud e infraestrutura;
-* Testes e qualidade de software.
+Aplicação web desenvolvida para **controle de estoque e gerenciamento das rotinas da recepção**.
+
+O sistema possui interface responsiva, gerenciamento de informações e visualização de indicadores, com foco em organização das operações e experiência de utilização.
+
+**Stack:**
+`JavaScript` · `Vue.js` · `Tailwind CSS` · `ECharts`
 
 ---
 
-## 🌎 Idiomas
+### SIGR — Sistema de Informação e Gestão de Risco
 
-* 🇧🇷 Português — Nativo
-* 🇺🇸 Inglês — Básico (A2)
-* 🇪🇸 Espanhol — Básico (A1)
+Sistema desenvolvido no contexto da **Prefeitura de Salvador**, destinado ao gerenciamento e visualização de informações relacionadas à gestão de risco.
+
+**Stack:**
+`Vue.js` · `JavaScript` · `TypeScript` · `Tailwind CSS`
+
+> Alguns projetos relacionados a órgãos públicos e organizações privadas possuem acesso restrito e dependem de VPN ou ambientes internos. Por esse motivo, determinados sistemas e códigos não podem ser disponibilizados publicamente.
 
 ---
 
-## 🤝 Vamos nos conectar?
+## Idiomas
 
-Estou sempre aberto a conhecer novos projetos, oportunidades e pessoas da área de tecnologia.
+**Português:** Nativo
+**Inglês:** Básico — A2
+**Espanhol:** Básico — A1
 
-### 🔗 Onde me encontrar
+---
 
-**LinkedIn:**
+## Contato
+
+**LinkedIn**
 https://www.linkedin.com/in/joaovictordesenvolvedor/
 
-**GitHub:**
+**GitHub**
 https://github.com/Devju40
 
-**E-mail:**
+**E-mail**
 [joaovictorsilvacarmo6@gmail.com](mailto:joaovictorsilvacarmo6@gmail.com)
-
----
-
-### 💡 Sempre aprendendo, construindo e evoluindo.
-
-> *"Transformando conhecimento em soluções."*
